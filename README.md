@@ -24,11 +24,7 @@
 
 В настоящее время я открыт для постоянной работы в Санкт-Петербурге и Москве. 
 <p align="center">
-<a href="mailto:tdmitryabov2017@yandex.ru
-"><img height="30" src="https://raw.githubusercontent.com/dmitryabov/dmitryabov/master/003-email.svg"></a>&nbsp;&nbsp;
   <a href="mailto:tdmitryabov2017@yandex.ru
-"><img height="30" src="https://raw.githubusercontent.com/dmitryabov/dmitryabov/master/
-HeadHunter_logo.png"></a>&nbsp;&nbsp;
+"><img height="30" src="https://raw.githubusercontent.com/dmitryabov/dmitryabov/master/003-email.svg"></a>&nbsp;&nbsp;
 </p>
 
-HeadHunter_logo.png

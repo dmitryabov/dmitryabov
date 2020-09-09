@@ -1,6 +1,6 @@
 ## **Hi and welcome! 🙋‍♀**
 
-I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. Each day I create beautiful web-products using best practices and modern technologies. 
+Меня зову Дмитрий Рябов - frontend developer. Каждый день создаю веб-продукты, используя лучшие практики и современные технологии.
 
 ### Мои навыки:
 

@@ -1,6 +1,6 @@
 ## **Hi and welcome!
 
-Меня зовут Дмитрий Рябов . Each day I create beautiful web-products using best practices and modern technologies. 
+Меня зовут Дмитрий Рябов. Каждый день создаю красивые веб-продукты, используя лучшие практики и современные технологии.
 
 ### Мои навыки:
 

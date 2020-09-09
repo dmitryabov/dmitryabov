@@ -9,7 +9,7 @@
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Webpack;
 
-### 💻 Some of my open source projects:
+### 💻 Некоторые из моих проектов с открытым исходным кодом:
 
 
 | Project name        | Description          | Technologies  |

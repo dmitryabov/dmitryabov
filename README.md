@@ -22,9 +22,7 @@
 | [What To Watch](https://github.com/dmitryabov/1110293-what-to-watch-4) | Онлайн Подробная информация о кино, возможность выбрать и сформировать собственный список фильмов к просмотру, обсуждение кинофильмов и многое другое (находится на стадии разработки) | React, Redux, Jest, Enzyme, Webpack |
 
 
-В настоящее время я открыт для постоянной работы в Санкт-Петербурге и Москве. 
-<p align="center">
-  <a href="mailto:tdmitryabov2017@yandex.ru
+В настоящее время я открыт для постоянной работы в Санкт-Петербурге и Москве. <a href="mailto:tdmitryabov2017@yandex.ru
 "><img height="30" src="https://raw.githubusercontent.com/dmitryabov/dmitryabov/master/003-email.svg"></a>&nbsp;&nbsp;
-</p>
+
 

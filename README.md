@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - **Code bundlers:**  Webpack;
 ### 💻 Some of my open source projects:
 
+
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
 | [Social network](https://github.com/dmitryabov/social) | Социальная сеть, в которой можно авторизоваться, написать пост, редактировать профиль, редактировать статус | React, Redux, Jest, Enzyme, Webpack |

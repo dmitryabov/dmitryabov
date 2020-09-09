@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
-| [Social network](https://github.com/dmitryabov/social) | Социальная сеть, в которой можно авторизоваться, написать пост, редактировать профиль, редактировать статус | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
+| [Social network](https://github.com/dmitryabov/social) | Социальная сеть, в которой можно авторизоваться, написать пост, редактировать профиль, редактировать статус | React, Redux, Jest, Enzyme, Webpack |
 | [Cinemaddict](https://github.com/dmitryabov/1110293-cinemaddict-11) | Сервис для фанатов большого кино. Подробная информация о кино, возможность выбрать и сформировать собственный список фильмов к просмотру, обсуждение кинофильмов  | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
 | [Kekstagram](https://github.com/dmitryabov/1110293-kekstagram-19) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES5) |
 | [guess-melody](https://github.com/dmitryabov/1110293-guess-melody-4) | Online cinema app with ability to log in, rate, comment and watch movies. |TypeScript React, Redux, Jest, Enzyme, Webpack |

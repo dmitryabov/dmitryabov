@@ -1,16 +1,16 @@
-### Hi there 👋
+## **Hi and welcome! 🙋‍♀**
 
-<!--
-**dmitryabov/dmitryabov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. Each day I create beautiful web-products using best practices and modern technologies. 
 
-Here are some ideas to get you started:
+### 🛠 My tech stack:
 
-### Мои навыки:
-
+- **Responsive web-development:** HTML5, CSS/SCSS;
 - **Frontend:** JavaScript (ES5/ES6), TypeScript;
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, Enzyme;
-- **Code bundlers:**  Webpack;
+- **Code bundlers:** Gulp, Webpack;
+- **UX/UI:** Adobe XD, Adobe Photoshop, Figma, Adobe Illustrator.
+
 ### 💻 Some of my open source projects:
 
 

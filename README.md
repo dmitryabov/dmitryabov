@@ -26,6 +26,5 @@
 В настоящее время я открыт для постоянной работы в Санкт-Петербурге и Москве.
 
 <p align="center">
- href="dmitryabov2017@yandex.ru
-<img height="30" src="https://raw.githubusercontent.com/dmitryabov/dmitryabov/master/003-email.svg">&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/dmitryabov/dmitryabov/master/003-email.svg">  dmitryabov2017@yandex.ru&nbsp;&nbsp;
 </p>
